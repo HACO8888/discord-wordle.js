@@ -1,0 +1,22 @@
+{
+  "name": "discord-wordle.js",
+  "version": "1.0.0",
+  "description": "Wordle game for discord bot developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRHACO/discord-wordle.js.git"
+  },
+  "keywords": [
+    "wordle","discord","wordle-discord","wordle-discord.js","wordle.js"
+  ],
+  "author": "MR.HACO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRHACO/discord-wordle.js/issues"
+  },
+  "homepage": "https://github.com/MRHACO/discord-wordle.js#readme"
+}
